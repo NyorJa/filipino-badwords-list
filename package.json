@@ -31,5 +31,8 @@
   "homepage": "https://github.com/jromest/filipino-badwords-list#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "bad-words": "^3.0.2"
   }
 }
